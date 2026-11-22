@@ -1,0 +1,25 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+*.iml
+.idea/
+.vscode/
+.flutter-plugins
+# Android
+android/local.properties
+android/key.properties
+**/android/**/captures/
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+# macOS
+macos/Pods/
+# Generated
+coverage/
